@@ -56,6 +56,7 @@ BibTex citation if you find our work useful:
 - [2008] **Multiagent systems: Algorithmic, game-theoretic, and logical foundations** *Cambridge University Press* [[Book](http://www.masfoundations.org/mas.pdf)]
 
 ## Cooperative
+- [2026/04] **CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery** *Ao Qu et al. arXiv* [[Paper](https://arxiv.org/abs/2604.01658)|[Code](https://github.com/Human-Agent-Society/CORAL)] *
 - [2024/10] **MDAgents: An Adaptive Collaboration of LLMs for Medical Decision-Making** *Yubin Kim et al. arXiv* [[Paper](https://arxiv.org/pdf/2404.15155)] *
 - [2023/12] **LLM-Powered Hierarchical Language Agent for Real-time Human-AI Coordination** *Jijia Liu et al. arXiv* [[Paper](https://arxiv.org/pdf/2312.15224)] *
 - [2023/11] **Building the Future of Responsible AI: A Reference Architecture for Designing Large Language Model Based Agents** *Qinghua Lu et al. arXiv* [[Paper](https://arxiv.org/abs/2311.13148)] *
